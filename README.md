@@ -1,5 +1,5 @@
 # FidosRansom.sh
-Fido's Ransom | Simple Shell Game
+Fido's Ransom | Simple Shell Riddle Game
 
 
 This is my first Bash script and I tried to make it creative. I'm still learning. Hope you enjoy!
